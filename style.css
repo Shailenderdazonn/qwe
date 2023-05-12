@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.main {
+    width: 100%;
+    float: left;
+    background-image: url('3f9d67be162ef8fd498a4eb7b2552de1 (1).jpg');
+}
+.navbar {
+    width: 100%;
+    float: left;
+    background: #000;
+    opacity: 0.8;
+    margin: 30px;
+}
+
+.logo {
+    width: 20%;
+    float: left;
+}
+.menu {
+    width: 60%;
+    float: left;
+    text-decoration: none;
+    color: #fff;
+}
+.menu ul {
+    list-style: none;
+    display: flex;
+}
+.menu ul li {
+padding-left: 50px;
+}
+
+.social_media {
+    width: 10%;
+    float: left;
+    color: #fff;
+}
+button.button {
+    width: 10%;
+    float: left;
+}
